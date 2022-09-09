@@ -1,0 +1,16 @@
+html, body {
+    background-color: #000;
+    height: 100%;
+    margin: 0px;
+}
+
+#main-container {
+    display: grid;
+    place-items: center;
+    height: 100%;
+}
+
+#counter {
+    font: 64px monospace;
+    color: #333;
+}
